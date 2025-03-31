@@ -1423,6 +1423,12 @@
       "required": true
     },
     {
+      "slug": "dark-utilities",
+      "projectID": 242195,
+      "fileID": 2813586,
+      "required": true
+    },
+    {
       "slug": "natura-legacy",
       "projectID": 1116420,
       "fileID": 6982881,
