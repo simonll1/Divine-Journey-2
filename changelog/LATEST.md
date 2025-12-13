@@ -9,8 +9,8 @@ View all [changelogs](https://github.com/Divine-Journey-2/Divine-Journey-2/tree/
 ## Bugfixes:
 
 - Fix an uncommon crash when generating chunks in the Ocean (Noisethreader).
-- Fix an occasional crash after leaving the game.
 - Remove typo'd items from the Omniwand config - the items were already present in non-typo'd form.
+- Fix the RFTools Syringe Recipe not displaying the proper tooltips.
 
 ## Balance Adjustments:
 
@@ -22,6 +22,7 @@ View all [changelogs](https://github.com/Divine-Journey-2/Divine-Journey-2/tree/
 - Add a bunch of tooltips to various types of things for searchability.
 - Allow searching "##omniwand" to find everything that goes in the Omniwand.
 - Add a few more items to the Omniwand.
+- Reduce the default backup time from 2 hours to 30 minutes.
 
 ## Text and Quest Updates:
 
