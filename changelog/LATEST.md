@@ -10,6 +10,7 @@ View all [changelogs](https://github.com/Divine-Journey-2/Divine-Journey-2/tree/
 
 - Fix an uncommon crash when generating chunks in the Ocean (Noisethreader).
 - Fix an occasional crash after leaving the game.
+- Remove typo'd items from the Omniwand config - the items were already present in non-typo'd form.
 
 ## Balance Adjustments:
 
@@ -18,9 +19,13 @@ View all [changelogs](https://github.com/Divine-Journey-2/Divine-Journey-2/tree/
 
 ## QoL Improvements:
 
+- Add a bunch of tooltips to various types of things for searchability.
+- Allow searching "##omniwand" to find everything that goes in the Omniwand.
+- Add a few more items to the Omniwand.
 
 ## Text and Quest Updates:
 
+- Add a tooltip to the Omniwand suggesting searching in JEI for what items can be added.
 
 ## Texture Transformations:
 
