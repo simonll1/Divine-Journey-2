@@ -247,11 +247,6 @@ for i in 0 to 16 {
 Carving.addGroup("sand");
 Carving.addVariation("sand", <minecraft:sand>);
 Carving.addVariation("sand", <minecraft:sand:1>);
-for i in 0 to 8 {
-    Carving.addVariation("sand",<undergroundbiomes:igneous_sand>.withDamage(i));
-    Carving.addVariation("sand",<undergroundbiomes:metamorphic_sand>.withDamage(i));
-    Carving.addVariation("sand",<undergroundbiomes:sedimentary_sand>.withDamage(i));
-}
 
 Carving.addGroup("ub_coal_ore");
 Carving.addVariation("ub_coal_ore", <minecraft:coal_ore>);
